@@ -1,0 +1,222 @@
+/*
+Me base de algunos sitios web para darle forma en algunos puntos.
+ */
+.logo1
+{
+    position: auto;
+    width: 20%;
+}
+img
+{
+    vertical-align: middle;
+    border-style: none;
+}
+.card_img
+{
+    border-radius: 0px;
+    width: 100%;
+}
+
+.card
+{
+      background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+p
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1
+{
+    
+      font-family: 'Roboto', sans-serif;
+   font-size: 50px;
+    color: #ffffff;
+   
+    padding: center;
+    display: block;
+    margin: 80px auto 50 auto;
+    text-transform: uppercase;
+
+}
+.title2
+{
+    text-align: center;
+}
+
+h1
+{
+     font-size: 35px;
+  text-transform: uppercase; }
+  @media (max-width: 600px) {
+    h1 
+      {
+      font-size: 20px; } }
+}
+.centrar
+{
+    text-align: center;
+  
+    
+}
+h2
+{
+    font-family: 'Roboto', sans-serif;
+}
+.fondo
+{
+    background: #000000;
+}
+.fondo2
+{
+    
+    height: 450px;
+    width: 400;
+   position: center;
+    margin: 0px auto 0 auto;
+    border: 0px;
+   
+}
+
+
+h5
+{
+color: #ffffff;   
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase; }
+    
+
+
+.fondo3
+{
+    height: 450px;
+    width: 400;
+    
+    margin: 0px auto 0 auto;
+}
+
+.fh5co-home-banner .center-text {
+    text-align: center;
+    position: relative;
+   }
+
+.fondo2
+{
+    background: url(../img/rect1.jpg);
+    height: 300px;
+   width: auto;
+     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+
+.fh5co-home-banner .card-img-overlay {
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
+    background: -moz-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
+    background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
+    background: -linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black); }
+
+.fh5co-two-img .card-img-overlay {
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
+  background: -moz-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
+  background: -o-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
+  background: -linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black); }
+
+.fh5co-home-banner {
+  padding: 0; }
+  .fh5co-home-banner .card {
+    border: none; }
+ 
+
+.fh5co-recent-work {
+  background: #000000;
+  padding: 100px 0; }
+  @media (max-width: 767px) {
+    .fh5co-recent-work {
+      padding-bottom: 0; } }
+
+.card {
+  border: none;
+  background: none;
+  border-radius: 0; }
+  .card img {
+    border-radius: 0; }
+
+ 
+
+.contact-pop {
+  margin-top: -300px; }
+  .contact-pop .card-img-overlay {
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6));
+    background: -moz-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6));
+    background: -o-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6));
+    background: -linear-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6));
+    border-radius: 15px 0 0 15px; }
+  .contact-pop .row {
+    max-width: 918px;
+    margin: 0 auto; }
+  .contact-pop img {
+    border-radius: 15px 0 0 15px; }
+  .contact-pop .content {
+    padding: 45px 20px 20px 40px;
+    height: 100%;
+    background: #fff;
+    border-radius: 0 15px 15px 0; }
+    .contact-pop .content h3 {
+      color: #3d383a;
+      font-size: 30px;
+      text-transform: uppercase;
+      margin-bottom: 10px; }
+    .contact-pop .content h4 {
+      color: #978b91;
+      font-size: 18px;
+      font-family: "PT-Sans-Regular"; }
+    .contact-pop .content p {
+      color: #584f53; }
+    .contact-pop .content hr {
+      background-color: #ffffff;
+      width: 50px;
+      height: 5px;
+      border: none;
+      margin-left: 0; }
+    .contact-pop .content a {
+      background-color: #d6d4d5;
+      width: 158px;
+      border-radius: 40px;
+      color: #fefefe;
+      padding: 10px 0;
+      margin-top: 20px; }
+    @media (max-width: 991px) {
+      .contact-pop .content {
+        padding: 20px 20px 20px 25px; }
+        .contact-pop .content h3 {
+          font-size: 24px; }
+        .contact-pop .content h4 {
+          font-size: 16px; }
+        .contact-pop .content p {
+          font-size: 14px; }
+        .contact-pop .content a {
+          width: 120px;
+          padding: 5px 0; }
+        .contact-pop .content hr {
+          margin: 10px 0; } }
+  @media (max-width: 991px) {
+    .contact-pop {
+      margin-top: -250px; } }
+  @media (max-width: 767px) {
+    .contact-pop {
+      margin-top: 0; }
+      .contact-pop .col-md-6 {
+        padding: 0; }
+      .contact-pop img {
+        border-radius: 15px 15px 0 0; }
+      .contact-pop .card-img-overlay {
+        border-radius: 15px 15px 0 0; }
+      .contact-pop .content {
+        border-radius: 0 0 15px 15px; } }
+
